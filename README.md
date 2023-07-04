@@ -43,4 +43,4 @@ npm install
 Invoked by running `npm run <command>` in the project's working directory
 
 - `dev` - runs the local dev server.
-- `build` - bundles production code into `/public`
+- `build` - bundles production code into `/dist`
